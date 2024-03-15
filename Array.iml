@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/que 1 searching in array" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 2 searching og given array" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 4 sorting in array" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 5 palindrome" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 6 largest difference" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 7 duplicate elements" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 8 negative numbers" isTestSource="false" packagePrefix="com.company" />
+      <sourceFolder url="file://$MODULE_DIR$/que 9 last even number" isTestSource="false" packagePrefix="com.company" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
